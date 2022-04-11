@@ -1,0 +1,27 @@
+.nav {
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+  background-color: white;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 99;
+}
+.loginNav {
+  color: rgb(58, 58, 58);
+}
+.loginNav:hover {
+  color: #000;
+}
+.authNav {
+  background: #000;
+  float: right;
+}
+.navIcon {
+  margin-left: 25px;
+}
+.topImg {
+  width: 35px;
+  height: 35px;
+  border-radius: 100%;
+  margin-right: 30px;
+}

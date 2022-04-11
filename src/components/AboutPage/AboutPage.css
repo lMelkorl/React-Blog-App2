@@ -1,0 +1,13 @@
+.about{
+}
+.aboutImg{
+    border-radius: 10px;
+}
+.developerProfile{
+    justify-content: center;
+}
+.developerProfileContent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

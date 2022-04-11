@@ -1,0 +1,23 @@
+.lastPosts{
+    width: 245px;
+    background-color: rgb(248,250,250);
+    border-radius: 5px;
+}
+.postList{
+    display: flex;
+    flex-direction: column;
+}
+.userLastPostImg{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    margin-right: 6px;
+}
+.smPostTitle:hover{
+    color: rgb(0,139,213);
+}
+@media only screen and (max-width: 980px) {
+    .lastPosts{
+        width: 150px;
+    }
+}

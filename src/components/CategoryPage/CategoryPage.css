@@ -1,0 +1,15 @@
+.catList{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bg-cat{
+    background: rgb(247, 247, 249);
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.bg-cat a{
+    font-size: 22px;
+    color: goldenrod;
+    display: flex;
+    justify-content: center;
+}
