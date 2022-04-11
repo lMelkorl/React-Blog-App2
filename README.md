@@ -1,3 +1,29 @@
+# desc
+Hello, I tried to develop a mobile-friendly(responsive), simple and stylish site, I hope you like it.
+
+#Screenshots 📸
+-Home Page
+![React-App](https://user-images.githubusercontent.com/71590619/162723767-58ac6374-a6cd-43f5-b218-851d835c0aae.png)
+-Post
+![React-App8](https://user-images.githubusercontent.com/71590619/162724973-d8250f63-07a0-44b9-8df0-534a199ec788.png)
+-Write Page
+![React-App2](https://user-images.githubusercontent.com/71590619/162725094-4903db3e-7a93-4a67-8c55-9031f6c41bba.png)
+-Category Page
+![React-App3](https://user-images.githubusercontent.com/71590619/162725131-931f1358-475c-42e8-847c-311af191851f.png)
+-Labels Page
+![React-App4](https://user-images.githubusercontent.com/71590619/162725319-154eb789-97f2-4be6-8ea0-7d4a4b1b745e.png)
+-About Page
+![React-App5](https://user-images.githubusercontent.com/71590619/162725340-ead37272-9a8f-4557-9872-5a9c5c14941c.png)
+-Contact Page
+![React-App6](https://user-images.githubusercontent.com/71590619/162725551-d0658c00-fb10-4edd-8746-889c445c3b2f.png)
+-Privacy Page
+![React-App7](https://user-images.githubusercontent.com/71590619/162725622-52af9074-42c2-4efc-96cb-4192ce8df919.png)
+
+-Login & Register
+![React-App9](https://user-images.githubusercontent.com/71590619/162725741-4c7ffc59-9c3a-4457-8fea-d4f4218712b2.png)
+![React-App10](https://user-images.githubusercontent.com/71590619/162725745-f4b72a3a-5b1e-491b-b90d-1ae820857ab1.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
